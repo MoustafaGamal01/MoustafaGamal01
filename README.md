@@ -10,7 +10,7 @@
 
 - 🏢 I'm a CS student and BackEnd Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, C++, and SQL, or anything related to .NET
+- 💬 Ask me about my experience with C#, C++, and SQL and .NET Framework Core.
 - 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/moustafa-gamal-078abb209/ for more info about me.
 
 

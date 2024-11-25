@@ -10,7 +10,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/moustafa-gamal-078abb209/" target="_blank"><img src="https://img.shields.io/badge/-Moustafa%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/imoustafagamal/" target="_blank"><img src="https://img.shields.io/badge/-Moustafa%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="moustafa.gamal672@gmail.com" target="_blank"><img src="https://img.shields.io/badge/moustafa.gamal672@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ### Skills

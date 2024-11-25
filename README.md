@@ -6,7 +6,7 @@
 - 🏢 I'm Software Engineer
 - 🚀 Proficient in ASP.NET
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/moustafa-gamal-078abb209/ for more info about me.
+- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/imoustafagamal/ for more info about me.
 
 ### Connect with Me :
 

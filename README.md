@@ -3,7 +3,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-- 🏢 I'm Software Engineer
+- 🏢 I'm a Software Engineer
 - 🚀 Proficient in ASP.NET
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/imoustafagamal/ for more info about me.

@@ -2,15 +2,24 @@
   Welcome to Moustafa Gamal's profile!
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 - 🏢 I'm a Software Engineer
 - 🚀 Proficient in ASP.NET
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/imoustafagamal/ for more info about me.
 
 ### Connect with Me :
 
-<a href="moustafa.gamal672@gmail.com" target="_blank"><img src="https://img.shields.io/badge/moustafa.gamal672@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:moustafa.gamal672@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/imoustafagamal/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.facebook.com/mouustafagamal" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
 
 ### Skills
 - Languages: C#, C++, Python, HTML, JSON

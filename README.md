@@ -24,16 +24,17 @@
 ### Skills
 - Languages: C#, C++, Python, HTML, JSON
 - Frameworks: .NET Core, ASP.NET Web API, ASP.NET Core MVC, Entity Framework Core
-- Technologies: SQL Server, Git/GitHub, Google Cloud, LINQ, JWT
+- Technologies: SQL Server, Git/GitHub, Docker, Google Cloud, LINQ, JWT
 - Other: Data Structures, Algorithms, OOA&D, OOP, SOLID Principles, Database Design, UI/UX Design
 
 
 ### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cplusplus&logoColor=FFFFFF)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&logoColor=FFFFFF)&nbsp;
 
 
